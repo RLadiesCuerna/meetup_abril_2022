@@ -189,13 +189,13 @@ knitr::include_graphics("img/gitlablogo.jpg")
 
 # ¿Cómo generamos un proyecto de RStudio?
 
-## Opción 2:
+## Opción 3:
 
 - Creando un proyecto con control de versiones:
 
   - Crea un repositorio en GitHub o GitLab.
   - En las opciones de RStudio Ve a File > New project > Version control > Git.
-  - Copia y pega la dirección URL del repositorio de Git creado previamente.
+  - Copia y pega la dirección URL del repositorio de Git creado previamente. (https://github.com/josschavezf/proyecto.git)
   - Selecciona la ubicación donde crearás el nuevo directorio.
   - Selecciona la opción Open in New Session.
   - Oprime Create Project.
