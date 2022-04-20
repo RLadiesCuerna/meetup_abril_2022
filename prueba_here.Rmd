@@ -1,0 +1,11 @@
+# Usando el paquete here con R markdown
+
+- Usando rutas relativas sin el paquete here
+```{r}
+read.csv("datos/datos_crudos.csv")
+```
+
+- Usando rutas seguras con el paquete here
+```{r}
+read.csv(here::here("datos/datos_crudos.csv"))
+```
