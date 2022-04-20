@@ -31,4 +31,7 @@ Este meetup está dirigido a principiantes de R con interés en aprender a utili
 + Instalar el paquete rmarkdown usando `install.packages(“rmarkdown”)`
 + Instalar el paquete here usando `install.packages(“here”)`
 
+## Diapositivas
+
+Disponibles en este [link]( https://rladiescuerna.github.io/meetup_abril_2022/presentacion.html)
 
